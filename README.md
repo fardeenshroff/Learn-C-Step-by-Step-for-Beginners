@@ -28,8 +28,6 @@ In this chapter, you will get an introduction to the C programming language, its
 - [Key Features of C](https://www.geeksforgeeks.org/cc-introduction-features-and-applications/)
 - [Structure of a C Program](https://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm)
 
-### Downloads
-[Download Chapter 1: Introduction to C](#)
 
 ### Exercise:
 Write a simple C program that outputs `"Hello, World!"`. [Learn More](https://www.programiz.com/c-programming/examples/hello-world)
@@ -46,8 +44,6 @@ Before you start coding, set up your development environment. This chapter walks
 - [Setting Up an IDE (Code::Blocks, Visual Studio Code)](https://code.visualstudio.com/)
 - [Environment Configuration](https://www.tutorialspoint.com/gnu_gcc/gnu_gcc_environment.htm)
 
-### Downloads
-[Download Chapter 2: Setting Up Your Environment](#)
 
 ### Environment Setup Instructions
 - **macOS:** Use [Homebrew](https://brew.sh/) to install GCC: `brew install gcc`.
@@ -70,8 +66,6 @@ This chapter covers the core concepts of C programming, including data types, va
 - [Control Structures](https://www.tutorialspoint.com/cprogramming/c_decision_making.htm)
 - [Loops in C](https://www.programiz.com/c-programming/c-loops)
 
-### Downloads
-[Download Chapter 3: C Basics](#)
 
 ### Exercise:
 Write a program to calculate the sum of all numbers up to N. [Example](https://www.programiz.com/c-programming/examples/sum-natural-numbers)
@@ -89,8 +83,6 @@ Pointers are a unique feature of C that gives direct access to memory. This chap
 - [Dynamic Memory Management (malloc, calloc, free)](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)
 - [Pointer-to-Pointer](https://www.geeksforgeeks.org/double-pointer-pointer-pointer-c/)
 
-### Downloads
-[Download Chapter 4: Pointers and Memory Management](#)
 
 ### Exercise:
 Write a program to allocate memory dynamically for an array and print its elements.
@@ -108,8 +100,6 @@ This chapter introduces you to implementing common data structures and algorithm
 - [Stacks and Queues](https://www.geeksforgeeks.org/stack-data-structure/)
 - [Searching and Sorting Algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)
 
-### Downloads
-[Download Chapter 5: Data Structures and Algorithms](#)
 
 ### Exercise:
 Implement a stack using arrays and perform push and pop operations.
@@ -127,8 +117,6 @@ File handling is a critical aspect of C programming for real-world applications.
 - [Binary Files](https://www.programiz.com/c-programming/c-file-input-output)
 - [Error Handling in Files](https://www.geeksforgeeks.org/error-handling-during-file-operations-in-c/)
 
-### Downloads
-[Download Chapter 6: File Handling](#)
 
 ### Exercise:
 Write a program to copy the contents of one file to another.
@@ -145,8 +133,6 @@ Explore how C allows programs to dynamically manage memory during runtime.
 - [Fragmentation and Garbage Collection](https://www.geeksforgeeks.org/memory-layout-of-c-program/)
 - [Best Practices for Memory Management](https://www.learn-c.org/en/Memory_Management)
 
-### Downloads
-[Download Chapter 7: Dynamic Memory Allocation](#)
 
 ### Exercise:
 Implement a program that dynamically allocates memory for a matrix and performs matrix addition.
@@ -164,8 +150,6 @@ Modular programming helps you organize your C code into reusable components.
 - [Static and Dynamic Libraries](https://www.geeksforgeeks.org/static-and-dynamic-libraries/)
 - [Makefiles](https://www.tutorialspoint.com/makefile)
 
-### Downloads
-[Download Chapter 8: Modular Programming](#)
 
 ### Exercise:
 Create a static library for basic arithmetic operations and use it in a program.
@@ -183,8 +167,6 @@ Understand concurrency in C through threads and process management.
 - [Synchronization Mechanisms (Mutex, Semaphores)](https://www.geeksforgeeks.org/mutex-vs-semaphore/)
 - [Inter-Process Communication](https://www.tutorialspoint.com/inter_process_communication.htm)
 
-### Downloads
-[Download Chapter 9: Concurrency with C](#)
 
 ### Exercise:
 Implement a multithreaded program to calculate the sum of elements in an array.
@@ -202,8 +184,6 @@ Explore popular libraries and frameworks to make development faster and easier i
 - [Graphics Libraries (SDL, OpenGL)](https://www.libsdl.org/)
 - [Unit Testing Frameworks (CUnit, Check)](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#C)
 
-### Downloads
-[Download Chapter 10: Libraries and Frameworks](#)
 
 ### Exercise:
 Create a simple server-client communication program using sockets.
@@ -221,3 +201,16 @@ This repository is licensed under the [MIT License](LICENSE). See the LICENSE fi
 ---
 
 Happy Coding! 🚀
+
+---
+
+## Disclaimer
+
+The programming languages, resources, downloads, and links provided in this repository are the property of their respective owners, creators, and contributors. This repository is intended solely for educational purposes to help learners gain an understanding of each language, how to download and install the required tools, and how to start programming effectively.
+
+The content shared is purely for learning and informational purposes and is not intended to infringe on any copyrights or intellectual property rights. If you are the rightful owner of any resource or content and wish to have it removed, please contact me directly, and I will promptly take the necessary actions to comply with your request.
+
+All credit for the resources, libraries, and tools mentioned in this repository belongs to their respective authors.
+
+
+---
